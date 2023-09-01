@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratoire1-ZacharyLabelle</string>
+    <string name="et_courriel">Votre courriel</string>
+    <string name="et_mdp">Votre mot de passe</string>
+    <string name="chk_afficher">Afficher votre mot de passe</string>
+    <string name="btn_valider">VALIDER MOT DE PASSE</string>
+    <string name="tv_erreur">Courriel ou mot de passe non valide</string>
+</resources>

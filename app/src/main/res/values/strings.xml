@@ -1,8 +1,9 @@
 <resources>
-    <string name="app_name">Laboratoire1-ZacharyLabelle</string>
-    <string name="et_courriel">Votre courriel</string>
-    <string name="et_mdp">Votre mot de passe</string>
-    <string name="chk_afficher">Afficher votre mot de passe</string>
-    <string name="btn_valider">VALIDER MOT DE PASSE</string>
-    <string name="tv_erreur">Courriel ou mot de passe non valide</string>
+    <string name="app_name">Laboratory1-ZacharyLabelle</string>
+    <string name="et_courriel">Email address</string>
+    <string name="et_mdp">Password</string>
+    <string name="chk_afficher">Show password</string>
+    <string name="btn_valider">VALIDATE PASSWORD</string>
+    <string name="tv_erreurCorrect">Email address or password correct</string>
+    <string name="tv_erreurIncorrect">Email address or password incorrect</string>
 </resources>

@@ -41,12 +41,14 @@ public class MainActivity extends AppCompatActivity {
         EditText et_mdp = (EditText) findViewById(R.id.et_mdp);
         int bleu = ContextCompat.getColor(this, R.color.bleu);
         int rouge = ContextCompat.getColor(this, R.color.rouge);
+        String valide = getResources().getString(R.string.tv_erreurCorrect);
+        String invalide = getResources().getString(R.string.tv_erreurIncorrect);
 
         if (isValidPassword(et_mdp.getText().toString().trim())) {
-            tv_erreur.setText("Courriel et mot de passe valide!");
+            tv_erreur.setText(valide);
             tv_erreur.setTextColor(bleu);
         } else {
-            tv_erreur.setText("Courriel et mot de passe invalide!");
+            tv_erreur.setText(invalide);
             tv_erreur.setTextColor(rouge);
         }
     }

@@ -4,6 +4,6 @@
     <string name="et_mdp">Password</string>
     <string name="chk_afficher">Show password</string>
     <string name="btn_valider">VALIDATE PASSWORD</string>
-    <string name="tv_erreurCorrect">Email address or password correct</string>
+    <string name="tv_erreurCorrect">Email address and password correct</string>
     <string name="tv_erreurIncorrect">Email address or password incorrect</string>
 </resources>

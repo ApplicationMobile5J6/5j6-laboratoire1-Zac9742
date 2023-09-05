@@ -5,6 +5,6 @@
     <string name="et_mdp">Votre mot de passe</string>
     <string name="chk_afficher">Afficher votre mot de passe</string>
     <string name="btn_valider">VALIDER MOT DE PASSE</string>
-    <string name="tv_erreurCorrect">Courriel ou mot de passe non valide</string>
+    <string name="tv_erreurCorrect">Courriel et mot de passe valide</string>
     <string name="tv_erreurIncorrect">Courriel ou mot de passe non valide</string>
 </resources>
